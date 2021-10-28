@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/React-1571B1?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML5-DB3552?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+
 
 <br>
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
