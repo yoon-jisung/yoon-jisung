@@ -2,7 +2,6 @@
 <h3 align="left">I'm a front-end developer who loves to code whatever it looks like.</h3>
 
 
-- 📝 I regularly write articles on [my velog](https://velog.io/@hmsj1368)
 
 - 📫 How to reach me **hmsj2380@gmail.com**
 
