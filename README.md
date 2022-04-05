@@ -9,7 +9,6 @@
 
 <h3 align="left">Education</h3>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1581653050/noticon/kx0su51nl94d91jnghbz.png"/>
 <img src="https://img.shields.io/badge/Hanyang University Cyber Campus-Department of Information Systems and Communication Engineering-blue?style=flat-square"/>
 
 
