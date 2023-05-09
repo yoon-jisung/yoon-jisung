@@ -3,12 +3,15 @@
 
 
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
+
+
+
+
+
+<h3 align="left">Skills</h3>
 <img src="https://img.shields.io/badge/Department of Information Systems and Communication Engineering-blue?style=flat-square"/>
-
-
-
-
 <p align="left"> 
+
 <!-- <img src="https://img.shields.io/badge/뱃지 이름-뱃지 색상?style=flat-square&logo=Express&logoColor=로고 색상"/> -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
