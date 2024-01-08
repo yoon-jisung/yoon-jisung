@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **hmsj2380@gmail.com**
 
-- 📄 Know about my experiences [YoonSeungho's Notion](https://plausible-mandible-8b7.notion.site/a6a38609d44c4b6993fb7ecc4df6ddee)
+
 
 <h3 align="left">Education</h3>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
