@@ -1,10 +1,3 @@
-<h1 align="center">Good to see you, 👋  I'm yoon seung ho </h1>
-<h3 align="left">I'm a front-end developer who loves to code whatever it looks like.</h3>
-
-- 📫 How to reach me **hmsj2380@gmail.com**
-
-
-
 <h3 align="left">Education</h3>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
 <img src="https://img.shields.io/badge/Department of Information Systems and Communication Engineering-blue?style=flat-square"/>
